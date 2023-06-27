@@ -2,4 +2,4 @@
 
 ## Live Demo
 
-coming-soon-page-with-timer.netlify.app
+https://coming-soon-page-with-timer.netlify.app/
