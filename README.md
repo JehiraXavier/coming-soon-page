@@ -1,9 +1,3 @@
-# Coming Soon Page with Timer
-
-## Live Demo
-
-https://coming-soon-page-with-timer.netlify.app/
-
 # Coming soon page with timer
 
 ## Live demo
